@@ -1,9 +1,7 @@
 streamlit
 torch
-torchvision
 torchaudio
 diffusers
-speechrecognition
-pillow
 transformers
-scipy
+soundfile
+speechrecognition
