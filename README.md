@@ -1,4 +1,3 @@
----md
 # 🎤 Audio2Art – Transform Voice into AI Art
 
 Audio2Art is a Streamlit-based AI application that converts **spoken audio commands into artistic images** using **Speech Recognition** and **Stable Diffusion**.  
@@ -125,3 +124,4 @@ This project is suitable for:
 - ⚡ Faster CPU-optimized models
 
 ---
+
